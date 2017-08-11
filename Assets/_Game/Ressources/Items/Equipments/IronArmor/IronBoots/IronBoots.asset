@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd758ef5b7b537c478ed5378c1b0d88d, type: 3}
+  m_Name: IronBoots
+  m_EditorClassIdentifier: 
+  weight: 6
+  itemName: Iron Boots
+  itemValue: 25
+  icon: {fileID: 2800000, guid: 8315a79f76debaf4a9b4a80c09d6606f, type: 3}
+  armor: 10
+  enumEquipmentEmplacement: 2

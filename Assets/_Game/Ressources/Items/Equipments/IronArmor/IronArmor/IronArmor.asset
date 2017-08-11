@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd758ef5b7b537c478ed5378c1b0d88d, type: 3}
+  m_Name: IronArmor
+  m_EditorClassIdentifier: 
+  weight: 30
+  itemName: Iron Armor
+  itemValue: 125
+  icon: {fileID: 2800000, guid: 50926f1d96d0aad4384a5dd324ed5ff9, type: 3}
+  armor: 25
+  enumEquipmentEmplacement: 1

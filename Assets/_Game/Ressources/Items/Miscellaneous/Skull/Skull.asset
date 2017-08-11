@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9b04e0d770bc4141b8e10dbd507c3b8, type: 3}
+  m_Name: Skull
+  m_EditorClassIdentifier: 
+  weight: 2
+  itemName: Skull
+  itemValue: 5
+  icon: {fileID: 2800000, guid: 3f82f33ea6d47f7429a21b46d0f17c28, type: 3}

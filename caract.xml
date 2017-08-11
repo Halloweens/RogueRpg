@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Charac xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <str>15</str>
+  <constite>0</constite>
+  <intel>0</intel>
+  <dexte>0</dexte>
+  <name>fefe</name>
+</Charac>

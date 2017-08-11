@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eca56e5ce2be86a429d343986749798e, type: 3}
+  m_Name: IronShield
+  m_EditorClassIdentifier: 
+  weight: 10
+  itemName: Iron Shield
+  itemValue: 25
+  icon: {fileID: 2800000, guid: b454eea3326222044adb2bbc9180ac34, type: 3}
+  canBeAddInInventory: 1
+  handSocket: 0
+  weapon: {fileID: 11460520, guid: b63bdb55014ab6a4c9a11aa32e4b47dd, type: 2}
+  type: 1
